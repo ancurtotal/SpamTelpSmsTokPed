@@ -2,8 +2,8 @@
 include 'func.php';
 
 /*
-    https://github.com/nee48/BomTelpSmsTokped
-    Made by Handika Pratama
+    https://github.com/ancurtotal/SpamTelpSmsTokPed
+    Made by Ekay Ancurtotal
 */
 
 $init = new Bom();
