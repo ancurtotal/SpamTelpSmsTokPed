@@ -13,5 +13,5 @@ Cara Menjalankan :
 $ cd SpamTelpSmsTokPed
 $ php tp.php
 
-EKAY ANCURTOTAL
-SCARY OF DEMON CYBER
+   EKAY ANCURTOTAL
+ANCURTOTAL CYBER TEAM
